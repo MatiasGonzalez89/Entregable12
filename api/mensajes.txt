@@ -1,0 +1,14 @@
+const messages = [
+	{
+		"email": "Juan@gmail.com",
+		"mensaje": "Hola que tal",
+	},
+	{
+		"email": "Maria@gmail.com",
+		"mensaje": "Bien y vos?",
+	},
+	{
+		"email": "Juan@gmail.com",
+		"mensaje": "Me alegra",
+	},
+];
